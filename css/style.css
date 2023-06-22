@@ -39,8 +39,18 @@ section {
   padding: 3rem 1rem;
 }
 
-.link-btn {
+.link-btn{
   margin-top: 1rem;
+  display: inline-block;
+  padding: 1rem 3rem;
+  background: #ff5421;
+  color: #fff;
+  cursor: pointer;
+  border-radius: .5rem;
+  font-size: 1.8rem;
+}
+
+.link-btn.login{
   display: inline-block;
   padding: 1rem 3rem;
   background: #ff5421;
@@ -611,4 +621,3 @@ section {
     font-size: 50%;
   }
 }
-/*# sourceMappingURL=style.css.map */
