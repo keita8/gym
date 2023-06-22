@@ -48,7 +48,6 @@ section {
   cursor: pointer;
   border-radius: .5rem;
   font-size: 1.8rem;
-  text-transform: capitalize;
 }
 
 .link-btn:hover {
@@ -68,7 +67,6 @@ section {
 
 .heading h3 {
   font-size: 3.5rem;
-  text-transform: capitalize;
   color: #fff;
 }
 
@@ -293,7 +291,6 @@ section {
 
 .pricing .box-container .box h3 {
   font-size: 2rem;
-  text-transform: capitalize;
   color: #fff;
   padding-top: 1rem;
 }
